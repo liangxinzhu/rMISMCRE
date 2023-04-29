@@ -4,7 +4,7 @@ This contains the codes used in the paper 'A randomized Multi-index sequential M
 Please see the documentation.m file in each example/folder for instruction of implementing the tests.
 
 ### Reference: 
-All the MISMC codes are adapted from the codes used in the paper 'Multi-index sequential Monte Carlo ratio estimators for Bayesian inverse problems' (https://arxiv.org/abs/2203.05351), see the GitHub link for original codes (https://github.com/Shangda-Yang/MISMCRE).
+All the MISMC codes are adapted from the codes used in the paper 'Multi-index sequential Monte Carlo ratio estimators for Bayesian inverse problems' (https://arxiv.org/abs/2203.05351), see the GitHub link for original codes (https://github.com/Shangda-Yang/MISMCRE.git).
 
 MLSMC codes in 1D analytical Elliptic PDE are structured based on the MLMC work by Prof. Mike Giles (http://people.maths.ox.ac.uk/~gilesm/mlmc/#MATLAB).
 
